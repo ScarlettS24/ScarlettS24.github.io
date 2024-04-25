@@ -1,0 +1,45 @@
+
+	body {
+		background-color: #F5EABB;
+
+		h1{
+			color: #FF70A6;
+		}
+
+		h2 {
+			color: #1FA5DA;
+		}
+		h3 {
+			color: #FF8B61;
+		}
+		h4 {
+			color: #F8CA55;
+		}
+
+		.topnav {
+   background-color: #F8CA55;
+   overflow: hidden;
+}
+
+.topnav a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #FF70A6;
+   color: white;
+}
+
+.topnav a.active {
+   background-color: #FF70A6;
+   color: white;
+}
+
+
+	}
+
